@@ -1,0 +1,14 @@
+# redfin-user 11 RQ3A.211001.001 7641976 release-keys
+- manufacturer: 
+- platform: lito
+- codename: redfin
+- flavor: redfin-user
+- release: 11
+- id: RQ3A.211001.001
+- incremental: 7641976
+- tags: release-keys
+- fingerprint: google/redfin/redfin:11/RQ3A.211001.001/7641976:user/release-keys
+- is_ab: true
+- brand: google
+- branch: redfin-user-11-RQ3A.211001.001-7641976-release-keys
+- repo: google_redfin_dump
