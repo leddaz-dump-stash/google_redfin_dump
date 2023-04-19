@@ -1,0 +1,14 @@
+# redfin-user 13 TQ2A.230405.003 9719927 release-keys
+- manufacturer: google
+- platform: lito
+- codename: redfin
+- flavor: redfin-user
+- release: 13
+- id: TQ2A.230405.003
+- incremental: 9719927
+- tags: release-keys
+- fingerprint: google/redfin/redfin:13/TQ2A.230405.003/9719927:user/release-keys
+- is_ab: true
+- brand: google
+- branch: redfin-user-13-TQ2A.230405.003-9719927-release-keys
+- repo: google_redfin_dump
